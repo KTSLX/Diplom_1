@@ -1,8 +1,9 @@
 import unittest
 from unittest.mock import Mock
-from burger import Burger
-from bun import Bun
-from ingredient import Ingredient
+
+from Diploma_1.bun import Bun
+from Diploma_1.burger import Burger
+from Diploma_1.ingredient import Ingredient
 
 
 class TestBurger(unittest.TestCase):

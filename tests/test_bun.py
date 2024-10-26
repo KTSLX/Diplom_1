@@ -1,5 +1,7 @@
 import pytest
-from bun import Bun
+
+from Diploma_1.bun import Bun
+
 
 @pytest.fixture
 def bun():

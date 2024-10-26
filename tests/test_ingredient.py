@@ -1,5 +1,7 @@
 import pytest
-from ingredient import Ingredient
+
+from Diploma_1.ingredient import Ingredient
+
 
 @pytest.fixture
 def ingredient():

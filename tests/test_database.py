@@ -1,6 +1,7 @@
 import pytest
-from database import Database
-from ingredient_types import INGREDIENT_TYPE_SAUCE, INGREDIENT_TYPE_FILLING
+
+from Diploma_1.database import Database
+from Diploma_1.ingredient_types import INGREDIENT_TYPE_SAUCE, INGREDIENT_TYPE_FILLING
 
 
 @pytest.fixture
