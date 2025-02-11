@@ -2,7 +2,7 @@
 
 ### Autotests to check application for burger ordering in Stellar Burgers https://stellarburgers.nomoreparties.site/
 
-### Реализованные сценарии
+### Implemented scenarios:
 
 Unit-tests convering classes `Bun`, `Burger`, `Ingredient`, `Database`
 
